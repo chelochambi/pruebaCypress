@@ -1,0 +1,22 @@
+{
+  "name": "pruebacypress",
+  "version": "1.0.0",
+  "description": "\"# pruebaCypress\"",
+  "main": "index.js",
+  "scripts": {
+    "cy:open":"cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelochambi/pruebaCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelochambi/pruebaCypress/issues"
+  },
+  "homepage": "https://github.com/chelochambi/pruebaCypress#readme",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
